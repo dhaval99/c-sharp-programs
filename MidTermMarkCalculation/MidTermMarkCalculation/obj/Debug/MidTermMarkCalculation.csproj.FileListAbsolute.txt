@@ -1,0 +1,9 @@
+C:\Users\Dhaval\Desktop\ICE10_Student_Files\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.exe.config
+C:\Users\Dhaval\Desktop\ICE10_Student_Files\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.exe
+C:\Users\Dhaval\Desktop\ICE10_Student_Files\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.pdb
+C:\Users\Dhaval\Desktop\ICE10_Student_Files\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Dhaval\Desktop\ICE10_Student_Files\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.exe
+C:\Users\Dhaval\Desktop\ICE10_Student_Files\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.pdb
+C:\Users\Dhaval\Desktop\Studies\Intro to Prog\ICE 10\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\bin\Debug\MidTermMarkCalculation.exe.config
+C:\Users\Dhaval\Desktop\Studies\Intro to Prog\ICE 10\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.exe
+C:\Users\Dhaval\Desktop\Studies\Intro to Prog\ICE 10\ICE10_Student_Files\MidTermMarkCalculation\MidTermMarkCalculation\obj\Debug\MidTermMarkCalculation.pdb

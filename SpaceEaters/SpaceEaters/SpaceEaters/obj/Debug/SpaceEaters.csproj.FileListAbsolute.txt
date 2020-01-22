@@ -1,0 +1,9 @@
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\bin\Debug\SpaceEaters.exe.config
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\bin\Debug\SpaceEaters.exe
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\bin\Debug\SpaceEaters.pdb
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\obj\Debug\SpaceEaters.csprojResolveAssemblyReference.cache
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\obj\Debug\SpaceEaters.Properties.Resources.resources
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\obj\Debug\SpaceEaters.csproj.GenerateResource.Cache
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\obj\Debug\SpaceEaters.exe
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\obj\Debug\SpaceEaters.pdb
+c:\users\dhaval\documents\visual studio 2015\Projects\SpaceEaters\SpaceEaters\obj\Debug\SpaceEaters.SpaceEatersForm.resources

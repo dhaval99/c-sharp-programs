@@ -1,0 +1,6 @@
+c:\users\dhaval\documents\visual studio 2015\Projects\PizzaPiLoop\PizzaPiLoop\bin\Debug\PizzaPiLoop.exe.config
+c:\users\dhaval\documents\visual studio 2015\Projects\PizzaPiLoop\PizzaPiLoop\bin\Debug\PizzaPiLoop.exe
+c:\users\dhaval\documents\visual studio 2015\Projects\PizzaPiLoop\PizzaPiLoop\bin\Debug\PizzaPiLoop.pdb
+c:\users\dhaval\documents\visual studio 2015\Projects\PizzaPiLoop\PizzaPiLoop\obj\Debug\PizzaPiLoop.csprojResolveAssemblyReference.cache
+c:\users\dhaval\documents\visual studio 2015\Projects\PizzaPiLoop\PizzaPiLoop\obj\Debug\PizzaPiLoop.exe
+c:\users\dhaval\documents\visual studio 2015\Projects\PizzaPiLoop\PizzaPiLoop\obj\Debug\PizzaPiLoop.pdb
